@@ -1,0 +1,9 @@
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Games\VS 2013\A lot of Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Games\VS 2013\A lot of Projects\1001Zad2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Games\VS 2013\A lot of Projects\1001Zad2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Games\VS 2013\A lot of Projects\1001Zad2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
